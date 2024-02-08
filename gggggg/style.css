@@ -1,0 +1,25 @@
+.block{
+    display: inline-block;
+    background-color: beige;
+    padding: 20px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.form{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.input-wrap{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.input-label{
+    margin-bottom: 10px;
+}
